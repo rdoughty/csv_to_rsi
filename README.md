@@ -26,3 +26,19 @@ The csv file is expected to have a header row followed by rows of corresponding 
 | ----------------- | ------------------------ | ------------------------ | -------------- | --------------- | ------ | ----- | ---------------- | --- |
 | The bad beginning | Douglas, Mark; Lee, Ryan | The theory of everything | 2020           | Fairy Tale Plus | 54     | 0     | 123              | Doi |
 ```
+
+## Example Output
+```
+TY - JOUR
+TI - The bad beginning
+AU - Douglas, Mark
+AU - Lee, Ryan
+AB - The theory of everything
+PY - 2020
+JO - Fairy Tale Plus
+VL - 54
+IS - 0
+AN - 123
+DO - Doi
+ER -
+```
