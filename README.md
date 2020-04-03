@@ -8,6 +8,7 @@ python3
 
 ## Install
 
+Clone the repo or just copy the contents of the csv_to_rsi.py script locally. Set the permissions and execute!
 
 ## Execute
 
